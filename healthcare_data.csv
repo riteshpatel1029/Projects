@@ -1,0 +1,11 @@
+Patient_ID,Age,Gender,Disease,Hospital_Stay_Days,Cost
+1,25,Male,Diabetes,5,15000
+2,40,Female,Hypertension,3,12000
+3,35,Male,Asthma,2,8000
+4,50,Female,Diabetes,7,20000
+5,60,Male,Hypertension,4,18000
+6,45,Female,Asthma,3,10000
+7,30,Male,Diabetes,6,17000
+8,55,Female,Hypertension,5,19000
+9,28,Female,Asthma,2,9000
+10,65,Male,Diabetes,8,25000
